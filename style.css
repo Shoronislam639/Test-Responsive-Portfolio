@@ -55,7 +55,7 @@ body{
  color: #8A8A8A;
  line-height: 26px;
  font-weight: 500;
- width: 106%;
+ 
  
 }
 
@@ -289,7 +289,7 @@ body{
 
 
 
-/* Extra small devices (phones, 600px and down) */
+/* Extra small devices (phones, 350px and down) */
 @media only screen and (max-width: 350px) {
 
 
@@ -308,7 +308,7 @@ body{
     color: #8A8A8A;
     line-height: 5px;
     font-weight: 500;
-    width: 106%;
+    
 }
 
 .hero2 img {
@@ -361,7 +361,7 @@ body{
     color: #8A8A8A;
     line-height: 26px;
     font-weight: 500;
-    width: 106%;
+    
 }
 
     .hero2 img {
@@ -407,6 +407,7 @@ body{
         font-size: 36px !important;
         margin-bottom: 30px;
         font-weight: bolder;
+
     }
 .hero0 p {
     font-size: 14px !important;
@@ -414,7 +415,7 @@ body{
     color: #8A8A8A;
     line-height: 26px;
     font-weight: 500;
-    width: 106%;
+    
 }
 
 
@@ -540,6 +541,9 @@ body{
 
     .hero1 {
     padding-bottom: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
  
 
@@ -626,6 +630,7 @@ body{
 
     .hero1 {
     padding-bottom: 30px;
+   
 }
 
 
@@ -726,8 +731,6 @@ body{
     justify-content: space-between;
     gap: 20px;
 }
-
-
 
 }
 
